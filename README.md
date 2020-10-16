@@ -1,3 +1,3 @@
-# StudentList
+# StudentList 3
 
-first iteration. Not very developed, still need to use pointers for the structs
+Added a method to delete a student from the vector, meaning the project is finished. :D
